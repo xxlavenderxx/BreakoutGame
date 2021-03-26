@@ -1,3 +1,12 @@
 body{
   background: #f1e5c7;
 }
+.logo-container{
+  height:8vw;
+  width: 25vw;
+  margin: 1vw;
+}
+.logo-container img{
+  width: 100%;
+  vertical-align: top;
+}
