@@ -1,5 +1,6 @@
 body{
   background: #f1e5c7;
+  min-height: 100vh;
 }
 .logo-container{
   height:8vw;
@@ -9,4 +10,9 @@ body{
 .logo-container img{
   width: 100%;
   vertical-align: top;
+}
+
+.footer img{
+  width: 100%;
+  bottom: 0;
 }
